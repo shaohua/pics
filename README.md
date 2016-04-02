@@ -1,0 +1,2 @@
+# pics
+store random pics
